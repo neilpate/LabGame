@@ -25,4 +25,5 @@
 		<Item Name="Update.vi" Type="VI" URL="../Update.vi"/>
 	</Item>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+	<Item Name="Rotating Objects.lvclass" Type="LVClass" URL="../Rotating Objects/Rotating Objects.lvclass"/>
 </Library>
