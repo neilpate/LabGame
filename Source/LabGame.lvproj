@@ -19,8 +19,10 @@
 			<Item Name="Raster.lvlib" Type="Library" URL="../Graphics/Libraries/Raster/Raster.lvlib"/>
 			<Item Name="Graphics Global (For Debug).vi" Type="VI" URL="../Graphics/Libraries/Graphics Global (For Debug).vi"/>
 			<Item Name="Benchmark.lvlib" Type="Library" URL="../Graphics/Benchmark/Benchmark.lvlib"/>
+			<Item Name="Animation.lvlib" Type="Library" URL="../Graphics/Animation/Animation.lvlib"/>
 		</Item>
 		<Item Name="Examples" Type="Folder">
+			<Item Name="Amnesia.lvlib" Type="Library" URL="../Examples/Amnesia/Amnesia.lvlib"/>
 			<Item Name="Simple Example.lvlib" Type="Library" URL="../Examples/Simple/Simple Example.lvlib"/>
 			<Item Name="Example 1.lvlib" Type="Library" URL="../Examples/Example 1/Example 1.lvlib"/>
 		</Item>
