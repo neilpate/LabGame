@@ -10,4 +10,8 @@ Desirable feature set:
   Physics
 
 
+# Dependencies
+g-audio (https://github.com/dataflowg/g-audio)
+
+
   
